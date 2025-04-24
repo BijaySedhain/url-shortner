@@ -11,8 +11,8 @@
     <groupId>com.java</groupId>
     <artifactId>spring-boot-url-shortner</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring-boot-url-shortner</name>
-    <description>spring-boot-url-shortner</description>
+    <name>spring-boot-url-shortener</name>
+    <description>spring-boot-url-shortener</description>
     <url/>
     <licenses>
         <license/>

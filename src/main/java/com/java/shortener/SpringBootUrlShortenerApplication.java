@@ -1,13 +1,13 @@
-package com.java.shortner;
+package com.java.shortener;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootUrlShortnerApplication {
+public class SpringBootUrlShortenerApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringBootUrlShortnerApplication.class, args);
+        SpringApplication.run(SpringBootUrlShortenerApplication.class, args);
     }
 
 }
